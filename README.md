@@ -1,6 +1,6 @@
 # Path_planning_v1.0
 Outcome of path planning project first phase
-
+Demo-video：https://drive.google.com/file/d/1gl-v2o57ra-upOyI0hu7_JcZFmUCzYDy/view?usp=drive_link
 
 Overview: 
 
@@ -13,9 +13,10 @@ Further, the project explores automated path planning techniques from these view
 
 Setup Instructions: 
 
-For Viewpointsgeneration, you may need a python IDE like pycharm.
+For optimal viewpoints generation, you may need a python IDE like pycharm.
 For coordinates transformation and experiment setup calibration, you need RoboDK or Robotstudio. You can also build one with ROS.
 For Robotscan-E0505 control, you need a C++ IDE, like visual studio.
+
 
 
 
