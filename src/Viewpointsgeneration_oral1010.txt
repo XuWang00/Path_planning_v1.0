@@ -1,0 +1,78 @@
+2024-10-25 12:00:06,237 - Pathplanning - INFO - ##########################################################################################
+2024-10-25 12:00:06,325 - Pathplanning - INFO - base_center: [0. 0. 0.] center: [ 0.          0.         18.10626149]
+2024-10-25 12:00:07,009 - Pathplanning - INFO - Viewpoint0: [  0.           0.         508.10626149], Direction: [ 0  0 -1], View: Topview
+2024-10-25 12:00:07,009 - Pathplanning - INFO - Viewpoint1: [182.37949329   0.         478.55564568], Direction: [-0.36825492  0.         -0.92972486], View: Topview
+2024-10-25 12:00:07,009 - Pathplanning - INFO - Viewpoint2: [171.38066403  60.46862974 478.55564568], Direction: [-0.34621196 -0.12215475 -0.9301696 ], View: Topview
+2024-10-25 12:00:07,019 - Pathplanning - INFO - Viewpoint3: [139.71079737 113.64385032 478.55564568], Direction: [-0.28257714 -0.22985449 -0.9312986 ], View: Topview
+2024-10-25 12:00:07,019 - Pathplanning - INFO - Viewpoint4: [ 91.18974664 153.11194534 478.55564568], Direction: [-0.18469438 -0.31011069 -0.93258745], View: Topview
+2024-10-25 12:00:07,019 - Pathplanning - INFO - Viewpoint5: [ 31.66986665 174.11248007 478.55564568], Direction: [-0.06420174 -0.35296407 -0.93343157], View: Topview
+2024-10-25 12:00:07,019 - Pathplanning - INFO - Viewpoint6: [-31.66986665 174.11248007 478.55564568], Direction: [ 0.06420174 -0.35296407 -0.93343157], View: Topview
+2024-10-25 12:00:07,019 - Pathplanning - INFO - Viewpoint7: [-91.18974664 153.11194534 478.55564568], Direction: [ 0.18469438 -0.31011069 -0.93258745], View: Topview
+2024-10-25 12:00:07,020 - Pathplanning - INFO - Viewpoint8: [-139.71079737  113.64385032  478.55564568], Direction: [ 0.28257714 -0.22985449 -0.9312986 ], View: Topview
+2024-10-25 12:00:07,020 - Pathplanning - INFO - Viewpoint9: [-171.38066403   60.46862974  478.55564568], Direction: [ 0.34621196 -0.12215475 -0.9301696 ], View: Topview
+2024-10-25 12:00:07,020 - Pathplanning - INFO - Viewpoint10: [-1.82379493e+02  2.16515651e-14  4.78555646e+02], Direction: [ 3.68254915e-01 -4.37181567e-17 -9.29724861e-01], View: Topview
+2024-10-25 12:00:07,020 - Pathplanning - INFO - Viewpoint11: [-171.38066403  -60.46862974  478.55564568], Direction: [ 0.34621196  0.12215475 -0.9301696 ], View: Topview
+2024-10-25 12:00:07,020 - Pathplanning - INFO - Viewpoint12: [-139.71079737 -113.64385032  478.55564568], Direction: [ 0.28257714  0.22985449 -0.9312986 ], View: Topview
+2024-10-25 12:00:07,020 - Pathplanning - INFO - Viewpoint13: [ -91.18974664 -153.11194534  478.55564568], Direction: [ 0.18469438  0.31011069 -0.93258745], View: Topview
+2024-10-25 12:00:07,021 - Pathplanning - INFO - Viewpoint14: [ -31.66986665 -174.11248007  478.55564568], Direction: [ 0.06420174  0.35296407 -0.93343157], View: Topview
+2024-10-25 12:00:07,021 - Pathplanning - INFO - Viewpoint15: [  31.66986665 -174.11248007  478.55564568], Direction: [-0.06420174  0.35296407 -0.93343157], View: Topview
+2024-10-25 12:00:07,021 - Pathplanning - INFO - Viewpoint16: [  91.18974664 -153.11194534  478.55564568], Direction: [-0.18469438  0.31011069 -0.93258745], View: Topview
+2024-10-25 12:00:07,021 - Pathplanning - INFO - Viewpoint17: [ 139.71079737 -113.64385032  478.55564568], Direction: [-0.28257714  0.22985449 -0.9312986 ], View: Topview
+2024-10-25 12:00:07,021 - Pathplanning - INFO - Viewpoint18: [171.38066403 -60.46862974 478.55564568], Direction: [-0.34621196  0.12215475 -0.9301696 ], View: Topview
+2024-10-25 12:00:11,535 - Pathplanning - INFO - Added best viewpoint: Index 5, Position [ 31.66986665 174.11248007 478.55564568], Direction [-0.06420174 -0.35296407 -0.93343157], View Topview, Score 53460.763322988845
+2024-10-25 12:00:11,738 - Pathplanning - INFO - Current coverage ratio: 26.49%
+2024-10-25 12:00:11,797 - Pathplanning - INFO - Added best viewpoint: Index 14, Position [ -31.66986665 -174.11248007  478.55564568], Direction [ 0.06420174  0.35296407 -0.93343157], View Topview, Score 15687.475655415155
+2024-10-25 12:00:12,060 - Pathplanning - INFO - Current coverage ratio: 34.76%
+2024-10-25 12:00:12,074 - Pathplanning - INFO - Added best viewpoint: Index 1, Position [182.37949329   0.         478.55564568], Direction [-0.36825492  0.         -0.92972486], View Topview, Score 7160.483412312796
+2024-10-25 12:00:12,369 - Pathplanning - INFO - Current coverage ratio: 38.62%
+2024-10-25 12:00:12,379 - Pathplanning - INFO - Added best viewpoint: Index 10, Position [-1.82379493e+02  2.16515651e-14  4.78555646e+02], Direction [ 3.68254915e-01 -4.37181567e-17 -9.29724861e-01], View Topview, Score 1960.823544237964
+2024-10-25 12:00:12,677 - Pathplanning - INFO - Current coverage ratio: 39.66%
+2024-10-25 12:00:12,686 - Pathplanning - INFO - Added best viewpoint: Index 16, Position [  91.18974664 -153.11194534  478.55564568], Direction [-0.18469438  0.31011069 -0.93258745], View Topview, Score 1076.8353178615498
+2024-10-25 12:00:12,992 - Pathplanning - INFO - Current coverage ratio: 40.24%
+2024-10-25 12:00:12,999 - Pathplanning - INFO - Added best viewpoint: Index 3, Position [139.71079737 113.64385032 478.55564568], Direction [-0.28257714 -0.22985449 -0.9312986 ], View Topview, Score 514.9583141507635
+2024-10-25 12:00:13,302 - Pathplanning - INFO - Current coverage ratio: 40.52%
+2024-10-25 12:00:13,309 - Pathplanning - INFO - Added best viewpoint: Index 8, Position [-139.71079737  113.64385032  478.55564568], Direction [ 0.28257714 -0.22985449 -0.9312986 ], View Topview, Score 434.6718544957558
+2024-10-25 12:00:13,620 - Pathplanning - INFO - Current coverage ratio: 40.75%
+2024-10-25 12:00:13,625 - Pathplanning - INFO - Added best viewpoint: Index 12, Position [-139.71079737 -113.64385032  478.55564568], Direction [ 0.28257714  0.22985449 -0.9312986 ], View Topview, Score 386.1001748617137
+2024-10-25 12:00:13,938 - Pathplanning - INFO - Current coverage ratio: 40.96%
+2024-10-25 12:00:13,944 - Pathplanning - INFO - Added best viewpoint: Index 18, Position [171.38066403 -60.46862974 478.55564568], Direction [-0.34621196  0.12215475 -0.9301696 ], View Topview, Score 293.5487272542178
+2024-10-25 12:00:14,253 - Pathplanning - INFO - Current coverage ratio: 41.12%
+2024-10-25 12:00:14,258 - Pathplanning - INFO - Added best viewpoint: Index 11, Position [-171.38066403  -60.46862974  478.55564568], Direction [ 0.34621196  0.12215475 -0.9301696 ], View Topview, Score 208.44339256208715
+2024-10-25 12:00:14,568 - Pathplanning - INFO - Current coverage ratio: 41.23%
+2024-10-25 12:00:14,572 - Pathplanning - INFO - Added best viewpoint: Index 6, Position [-31.66986665 174.11248007 478.55564568], Direction [ 0.06420174 -0.35296407 -0.93343157], View Topview, Score 194.39527657625158
+2024-10-25 12:00:14,888 - Pathplanning - INFO - Current coverage ratio: 41.34%
+2024-10-25 12:00:14,893 - Pathplanning - INFO - Added best viewpoint: Index 9, Position [-171.38066403   60.46862974  478.55564568], Direction [ 0.34621196 -0.12215475 -0.9301696 ], View Topview, Score 171.84637682697888
+2024-10-25 12:00:15,209 - Pathplanning - INFO - Current coverage ratio: 41.43%
+2024-10-25 12:00:15,213 - Pathplanning - INFO - Added best viewpoint: Index 15, Position [  31.66986665 -174.11248007  478.55564568], Direction [-0.06420174  0.35296407 -0.93343157], View Topview, Score 137.4971657003428
+2024-10-25 12:00:15,528 - Pathplanning - INFO - Current coverage ratio: 41.50%
+2024-10-25 12:00:15,531 - Pathplanning - INFO - Added best viewpoint: Index 17, Position [ 139.71079737 -113.64385032  478.55564568], Direction [-0.28257714  0.22985449 -0.9312986 ], View Topview, Score 126.62057888374085
+2024-10-25 12:00:15,848 - Pathplanning - INFO - Current coverage ratio: 41.57%
+2024-10-25 12:00:15,851 - Pathplanning - INFO - Added best viewpoint: Index 2, Position [171.38066403  60.46862974 478.55564568], Direction [-0.34621196 -0.12215475 -0.9301696 ], View Topview, Score 108.06704428530006
+2024-10-25 12:00:16,172 - Pathplanning - INFO - Current coverage ratio: 41.63%
+2024-10-25 12:00:16,176 - Pathplanning - INFO - Added best viewpoint: Index 13, Position [ -91.18974664 -153.11194534  478.55564568], Direction [ 0.18469438  0.31011069 -0.93258745], View Topview, Score 101.36191426121358
+2024-10-25 12:00:16,501 - Pathplanning - INFO - Current coverage ratio: 41.68%
+2024-10-25 12:00:16,503 - Pathplanning - INFO - Added best viewpoint: Index 4, Position [ 91.18974664 153.11194534 478.55564568], Direction [-0.18469438 -0.31011069 -0.93258745], View Topview, Score 76.42655049102466
+2024-10-25 12:00:16,821 - Pathplanning - INFO - Current coverage ratio: 41.72%
+2024-10-25 12:00:16,822 - Pathplanning - INFO - Added best viewpoint: Index 7, Position [-91.18974664 153.11194534 478.55564568], Direction [ 0.18469438 -0.31011069 -0.93258745], View Topview, Score 74.65230723979967
+2024-10-25 12:00:17,136 - Pathplanning - INFO - Current coverage ratio: 41.76%
+2024-10-25 12:00:17,137 - Pathplanning - INFO - Added best viewpoint: Index 0, Position [  0.           0.         508.10626149], Direction [ 0  0 -1], View Topview, Score 60.76831539105997
+2024-10-25 12:00:17,453 - Pathplanning - INFO - Current coverage ratio: 41.79%
+2024-10-25 12:00:17,455 - Pathplanning - INFO - Viewpoint 5: Position [ 31.66986665 174.11248007 478.55564568], Direction [-0.06420174 -0.35296407 -0.93343157], View Topview, Score 53460.763322988845
+2024-10-25 12:00:17,455 - Pathplanning - INFO - Viewpoint 14: Position [ -31.66986665 -174.11248007  478.55564568], Direction [ 0.06420174  0.35296407 -0.93343157], View Topview, Score 15687.475655415155
+2024-10-25 12:00:17,455 - Pathplanning - INFO - Viewpoint 1: Position [182.37949329   0.         478.55564568], Direction [-0.36825492  0.         -0.92972486], View Topview, Score 7160.483412312796
+2024-10-25 12:00:17,455 - Pathplanning - INFO - Viewpoint 10: Position [-1.82379493e+02  2.16515651e-14  4.78555646e+02], Direction [ 3.68254915e-01 -4.37181567e-17 -9.29724861e-01], View Topview, Score 1960.823544237964
+2024-10-25 12:00:17,455 - Pathplanning - INFO - Viewpoint 16: Position [  91.18974664 -153.11194534  478.55564568], Direction [-0.18469438  0.31011069 -0.93258745], View Topview, Score 1076.8353178615498
+2024-10-25 12:00:17,455 - Pathplanning - INFO - Viewpoint 3: Position [139.71079737 113.64385032 478.55564568], Direction [-0.28257714 -0.22985449 -0.9312986 ], View Topview, Score 514.9583141507635
+2024-10-25 12:00:17,455 - Pathplanning - INFO - Viewpoint 8: Position [-139.71079737  113.64385032  478.55564568], Direction [ 0.28257714 -0.22985449 -0.9312986 ], View Topview, Score 434.6718544957558
+2024-10-25 12:00:17,455 - Pathplanning - INFO - Viewpoint 12: Position [-139.71079737 -113.64385032  478.55564568], Direction [ 0.28257714  0.22985449 -0.9312986 ], View Topview, Score 386.1001748617137
+2024-10-25 12:00:17,455 - Pathplanning - INFO - Viewpoint 18: Position [171.38066403 -60.46862974 478.55564568], Direction [-0.34621196  0.12215475 -0.9301696 ], View Topview, Score 293.5487272542178
+2024-10-25 12:00:17,456 - Pathplanning - INFO - Viewpoint 11: Position [-171.38066403  -60.46862974  478.55564568], Direction [ 0.34621196  0.12215475 -0.9301696 ], View Topview, Score 208.44339256208715
+2024-10-25 12:00:17,456 - Pathplanning - INFO - Viewpoint 6: Position [-31.66986665 174.11248007 478.55564568], Direction [ 0.06420174 -0.35296407 -0.93343157], View Topview, Score 194.39527657625158
+2024-10-25 12:00:17,456 - Pathplanning - INFO - Viewpoint 9: Position [-171.38066403   60.46862974  478.55564568], Direction [ 0.34621196 -0.12215475 -0.9301696 ], View Topview, Score 171.84637682697888
+2024-10-25 12:00:17,456 - Pathplanning - INFO - Viewpoint 15: Position [  31.66986665 -174.11248007  478.55564568], Direction [-0.06420174  0.35296407 -0.93343157], View Topview, Score 137.4971657003428
+2024-10-25 12:00:17,456 - Pathplanning - INFO - Viewpoint 17: Position [ 139.71079737 -113.64385032  478.55564568], Direction [-0.28257714  0.22985449 -0.9312986 ], View Topview, Score 126.62057888374085
+2024-10-25 12:00:17,456 - Pathplanning - INFO - Viewpoint 2: Position [171.38066403  60.46862974 478.55564568], Direction [-0.34621196 -0.12215475 -0.9301696 ], View Topview, Score 108.06704428530006
+2024-10-25 12:00:17,456 - Pathplanning - INFO - Viewpoint 13: Position [ -91.18974664 -153.11194534  478.55564568], Direction [ 0.18469438  0.31011069 -0.93258745], View Topview, Score 101.36191426121358
+2024-10-25 12:00:17,456 - Pathplanning - INFO - Viewpoint 4: Position [ 91.18974664 153.11194534 478.55564568], Direction [-0.18469438 -0.31011069 -0.93258745], View Topview, Score 76.42655049102466
+2024-10-25 12:00:17,456 - Pathplanning - INFO - Viewpoint 7: Position [-91.18974664 153.11194534 478.55564568], Direction [ 0.18469438 -0.31011069 -0.93258745], View Topview, Score 74.65230723979967
+2024-10-25 12:00:17,456 - Pathplanning - INFO - Viewpoint 0: Position [  0.           0.         508.10626149], Direction [ 0  0 -1], View Topview, Score 60.76831539105997
