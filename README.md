@@ -15,8 +15,8 @@ Further, the project explores automated path planning techniques from these view
 Setup Instructions: 
 
 For optimal viewpoints generation, you may need a python IDE like pycharm.
-For coordinates transformation and experiment setup calibration, you need RoboDK or Robotstudio. You can also build one with ROS.
-For Robotscan-E0505 control, you need a C++ IDE, like visual studio.
+For coordinates transformation and experiment setup calibration, if you want to reuse my setup, you need RoboDK. You can also build one with ROS or Robotstudio.
+For Robotscan-E0505 control, if you want to reuse my code, you need a C++ IDE, like visual studio.
 
 
 
